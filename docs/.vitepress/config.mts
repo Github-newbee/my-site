@@ -2,7 +2,7 @@ import { defineConfig } from 'vitepress'
 
 // https://vitepress.dev/reference/site-config
 export default defineConfig({
-  base:'my-site',
+  base:'/my-site/',
   title: "Nice",
   description: "一个由VitePress驱动生成的文章",
   lang:'zh-CN',
