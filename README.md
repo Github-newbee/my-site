@@ -1,4 +1,4 @@
-# 使用VitePress构建个人网站，并使用Github Actions进行自动部署
+# 使用VitePress+Github Actions开发部署个人网站
 
 ## vitepress
 
