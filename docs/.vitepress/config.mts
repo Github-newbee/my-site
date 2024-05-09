@@ -3,7 +3,7 @@ import { defineConfig } from 'vitepress'
 // https://vitepress.dev/reference/site-config
 export default defineConfig({
   base:'/my-site/',
-  title: "Nice",
+  title: "洪丽猪八戒",
   description: "一个由VitePress驱动生成的文章",
   lang:'zh-CN',
   themeConfig: {
@@ -36,7 +36,7 @@ export default defineConfig({
 
     footer: {
       message: '<p>由VitePress驱动</p>',
-      copyright: 'Copyright © 2019-2024 <a href="https://github.com/yyx990803">小铁</a>   '
+      copyright: 'Copyright © 2019-present Evan You'
     },
 
     docFooter: {
