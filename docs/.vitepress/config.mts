@@ -3,7 +3,7 @@ import { defineConfig } from 'vitepress'
 // https://vitepress.dev/reference/site-config
 export default defineConfig({
   base:'/my-site/',
-  title: "洪丽猪八戒",
+  title: "My Site",
   description: "一个由VitePress驱动生成的文章",
   lang:'zh-CN',
   themeConfig: {
