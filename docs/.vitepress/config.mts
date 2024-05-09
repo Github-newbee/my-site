@@ -35,8 +35,8 @@ export default defineConfig({
     ],
 
     footer: {
-      message: '<p>由VitePress驱动</p>',
-      copyright: 'Copyright © 2019-present Evan You'
+      message: '由VitePress驱动',
+      copyright: 'Copyright © 2019-present 小铁'
     },
 
     docFooter: {
